@@ -13,4 +13,4 @@ print(PobalcionPais)
 
 #Para usar un for se debe usar el metodo items para que tome cada key con su valor
 for x,y in PobalcionPais.items():
-    print("El pais "+str(x)+" tiene "+str(y)+" millones de habitantes")
+    print("El pais "+str(x)+" tiene "+str(y)+" millones de habitantes") 
